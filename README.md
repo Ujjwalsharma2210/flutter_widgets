@@ -2,15 +2,4 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://lh3.googleusercontent.com/YhXVhsQS2X6oAvOz0UeJXC9RlyGMAlazJ55whLOK7hQdyvgSXxYx8FH1QWAVIlOohLKc6jbI3YKdQGcFLGiv6RpiTXS9z-gPnzeUJAGfXvOJVj0lKr5vnOpmjEQ57earHJ_G4YpIxZsb3t6aUNGqtCxpvY8VSshcgTvZJ7zP2TRalcANzwDSP145_WLQSEtHWtWia8GixOhPKIMaw-SNwj___aa738AUpjKIkay1SK6UfuoZLFVG-s4cTSyzuViojbmsz67VOv6qkxe0IglYn6s6cqR-5v_VWiMTRkleZNyxPu8GxtN66dXL19s4DW690EsnqICMFYRXPA3D59d1P0jJcCxp6FwVHRpYOweZ0--rR3j-SaiTo0Pv29nzmU__wkEgvJRyhSZ2VQYwDFKCtrCOl-CSp32AApTg79FHzGNzPOa-RaMxn_yNrdOf3ObEecfWh3OjVgXgdI7JGRiJvisQG5-VO8pQ6X7HvYbPTT-_9IXhV6sHwpLEc5_1MHs-I60sAY4i8PYwUiDUYaAY8NV21xngIJ8HKWnNpAqVdwBBm2lj1qV0JZhfAaL6Lv0y0KF5GB3wD96klGkdDO7j-faUA56ja8Gbnks7Nw9T2s6p9xy7mXhjvbDxwCz1dSbSQS8nrKSA-_Cri4O9sLbE34Vu7xBj-upsbfYfRQURh_M1jDghj95hcbyx0iM2p6DY3lzr-bbAwV1qVbGkoOYjvRlxaBHh1Cm8Ngu2G5AYc3kKZ3-idy0H7jiz5JEflqKGU2Xguz-hvuMfzTHLuC1MV0rkjUlRcxBwVZAGBKSoyvzJ_3q5pjcP1LrPtEC3aTV7njf4UHFGFIgHk-H56JD6IYO0eC49PP2Dk_bLPsQ0tYmzkxyeSi5AKqcDUfivnk4MrYZC91ynkXpctdGalnq4Jb3rBNMpsbQqj90VlwYqwJvNmb0fGh61HJihK5Ixce9u1nCh10V9ExFrUH0JvCPS=w762-h1650-no?authuser=0)
