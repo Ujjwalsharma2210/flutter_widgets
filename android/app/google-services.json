@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "884413175629",
+    "project_id": "betterlabs-e7beb",
+    "storage_bucket": "betterlabs-e7beb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884413175629:android:73977137ca52e2301b0904",
+        "android_client_info": {
+          "package_name": "com.example.widgets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884413175629-6pv1j891e6ekhi6dh8a497shcpf2lsvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMSKWe2DjUvBajv2-wtENNVx2v8Ivc8_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884413175629-6pv1j891e6ekhi6dh8a497shcpf2lsvh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "884413175629-avp6j3i4b72bk05bab90lbojf0l1qdb4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.widgets"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
